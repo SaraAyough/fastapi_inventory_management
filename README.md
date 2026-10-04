@@ -21,7 +21,7 @@ A simple product inventory management system built with FastAPI and Streamlit.
 
 ## 📁 Project Structure
 
-`text
+
 product-inventory-management/
 │
 ├── src/
